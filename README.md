@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Markdown
 
 https://github.com/NachoForce/summer-internship-2019
 
-## How to Create a Poll Request
+## How to Create a Pull Request
 
 create a branch
 ```bash
