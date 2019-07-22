@@ -13,6 +13,10 @@ https://en.wikipedia.org/wiki/Markdown
 https://github.com/NachoForce/summer-internship-2019
 
 ## How to Create a Pull Request
+Before you create a branch, checkout master
+```bash
+> git checkout master
+```
 
 create a branch
 ```bash
