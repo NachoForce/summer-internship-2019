@@ -1,0 +1,11 @@
+/Users/aks/summer-internship-2019/bin/Debug/netcoreapp2.2/summer-internship-2019.deps.json
+/Users/aks/summer-internship-2019/bin/Debug/netcoreapp2.2/summer-internship-2019.runtimeconfig.json
+/Users/aks/summer-internship-2019/bin/Debug/netcoreapp2.2/summer-internship-2019.runtimeconfig.dev.json
+/Users/aks/summer-internship-2019/bin/Debug/netcoreapp2.2/summer-internship-2019.dll
+/Users/aks/summer-internship-2019/bin/Debug/netcoreapp2.2/summer-internship-2019.pdb
+/Users/aks/summer-internship-2019/obj/Debug/netcoreapp2.2/summer-internship-2019.csprojAssemblyReference.cache
+/Users/aks/summer-internship-2019/obj/Debug/netcoreapp2.2/summer-internship-2019.csproj.CoreCompileInputs.cache
+/Users/aks/summer-internship-2019/obj/Debug/netcoreapp2.2/summer-internship-2019.AssemblyInfoInputs.cache
+/Users/aks/summer-internship-2019/obj/Debug/netcoreapp2.2/summer-internship-2019.AssemblyInfo.cs
+/Users/aks/summer-internship-2019/obj/Debug/netcoreapp2.2/summer-internship-2019.dll
+/Users/aks/summer-internship-2019/obj/Debug/netcoreapp2.2/summer-internship-2019.pdb
