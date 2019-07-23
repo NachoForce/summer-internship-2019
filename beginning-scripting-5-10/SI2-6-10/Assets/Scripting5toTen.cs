@@ -6,13 +6,13 @@ public class Scripting5toTen : MonoBehaviour
 {
     public float speed = 5.0f; 
     Rigidbody rb;
-    Light myLight;
+    public Light myLight;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        myLight = GetComponent<Light>();
+        // myLight = GetComponent<Light>();
     }
 
     // Update is called once per frame
