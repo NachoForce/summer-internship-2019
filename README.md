@@ -64,37 +64,24 @@ If it says, "the current branch has no upstream branch.", then copy the followin
 ```
 
 ## C# Hello World
+I attempted to program Hello World in C# using dotnet, and found two ways to do it:
+either using iTerm2 to use dotnet, or in Visual Studio Code's terminal. Both ways, once I created my App, had Hello World
+preloaded as a default program, so from then, I simply had to write dotnet new console, then dotnet run, and I had successfully printed Hello World in both the iTerm2 console and the console inside Visual Studio Code. 
+
 
 https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro
 
 https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
 
+
+## Unity Tutorial Practice Projects
+
 ![](BoxWithClick.gif)
 
-<<<<<<< HEAD
 ![](BallShoot.gif)
 
 ![](ChangeColor.gif)
 
 ![](ShootBullet.gif)
-=======
->>>>>>> master
-I attempted to program Hello World in C# using dotnet, and found two ways to do it:
-either using iTerm2 to use dotnet, or in Visual Studio Code's terminal. Both ways, once I created my App, had Hello World
-preloaded as a default program, so from then, I simply had to write dotnet new console, then dotnet run, and I had successfully printed Hello World in both the iTerm2 console and the console inside Visual Studio Code. 
 
- # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-build/
-bld/
-[Bb]in/
-[Oo]bj/
-[Oo]ut/
-msbuild.log
-msbuild.err
-msbuild.wrn
+
